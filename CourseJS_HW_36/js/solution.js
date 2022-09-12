@@ -1,4 +1,5 @@
-let = elementOutput = ( function() {
+"use strict";
+( function() {
     const arr = [];
     const showList = document.querySelectorAll("li");
     for (let li of showList) {
