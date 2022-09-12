@@ -1,4 +1,6 @@
 # CourseJS_HW_36
+DOM
+
 code that outputs each item in the list to the console
 
 Use the for...of loop
